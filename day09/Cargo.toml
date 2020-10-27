@@ -1,5 +1,5 @@
 [package]
-name = "day7"
+name = "day09"
 version = "0.1.0"
 authors = ["Austin Burdine <acburdine@gmail.com>"]
 edition = "2018"
@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 regex = "1"
+petgraph = "0.5"
+permutohedron = "0.2"
