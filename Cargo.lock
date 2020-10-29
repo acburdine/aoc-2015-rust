@@ -124,6 +124,13 @@ name = "day20"
 version = "0.1.0"
 
 [[package]]
+name = "day21"
+version = "0.1.0"
+dependencies = [
+ "permutohedron",
+]
+
+[[package]]
 name = "fixedbitset"
 version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
